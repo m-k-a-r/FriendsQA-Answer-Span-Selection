@@ -19,3 +19,5 @@ If running this notebook on Colab, please make sure to upload data to the files 
 [3] Papers with code - squad1.1 benchmark (question answering) The latest in Machine Learning. Available at: https://paperswithcode.com/sota/question-answering-on-squad11
 
 [4] Team, T. A. I. (2020, November 19). Bert for Question Answering. Towards AI. Available at: https://towardsai.net/p/nlp/bert-for-questionanswering 
+
+[5] Question answering on the squad dataset - Stanford University. Available at: https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports/2761899.pdf 
