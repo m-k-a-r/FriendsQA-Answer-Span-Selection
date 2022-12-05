@@ -12,4 +12,6 @@ If running this notebook on Colab, please make sure to upload data to the files 
 
 ## Citation
 
-Data is taken from: https://github.com/emorynlp/FriendsQA
+[1] Data is available at: https://github.com/emorynlp/FriendsQA
+[2] Yang, Z. and Choi, J.D. (no date) FriendsQA: Open-domain question answering on TV show transcripts, ACL Anthology. Available at: https://aclanthology.org/W19-5923/
+[3] Papers with code - squad1.1 benchmark (question answering) The latest in Machine Learning. Available at: https://paperswithcode.com/sota/question-answering-on-squad11
