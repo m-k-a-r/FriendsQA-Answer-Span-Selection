@@ -8,7 +8,7 @@ It is sectioned into 5 parts: Data, Data Analysis, BERT, Fine-Tuned BERT and Bi-
 
 Each part of the notebook is further labeled and commented for ease of understanding. 
 
-If running this notebook on Colab, please make sure to upload data to the files section of Colab such that data path is /content/data_file_name.json. The data has to be in the same directory as the notebook for anywhere else.
+If running this notebook on Colab, please make sure to upload all the data to the files section of Colab such that data path is /content/data_file_name.json. The data has to be in the same directory as the notebook for anywhere else.
 
 ## Citations
 
