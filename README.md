@@ -10,7 +10,7 @@ Each part of the notebook is further labeled and commented for ease of understan
 
 If running this notebook on Colab, please make sure to upload data to the files section of Colab such that data path is /content/data_file_name.json. The data has to be in the same directory as the notebook for anywhere else.
 
-## Citation
+## Citations
 
 [1] Data is available at: https://github.com/emorynlp/FriendsQA
 
