@@ -13,5 +13,9 @@ If running this notebook on Colab, please make sure to upload data to the files 
 ## Citation
 
 [1] Data is available at: https://github.com/emorynlp/FriendsQA
+
 [2] Yang, Z. and Choi, J.D. (no date) FriendsQA: Open-domain question answering on TV show transcripts, ACL Anthology. Available at: https://aclanthology.org/W19-5923/
+
 [3] Papers with code - squad1.1 benchmark (question answering) The latest in Machine Learning. Available at: https://paperswithcode.com/sota/question-answering-on-squad11
+
+[4] Team, T. A. I. (2020, November 19). Bert for Question Answering. Towards AI. Available at: https://towardsai.net/p/nlp/bert-for-questionanswering 
